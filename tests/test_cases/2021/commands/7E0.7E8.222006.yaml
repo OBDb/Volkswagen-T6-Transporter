@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222006
+test_cases:
+- expected_values:
+    T6_PQ35_OIL_FILL_LEVEL: 1205.46
+  response: 7E8056220064E7B
+- expected_values:
+    T6_PQ35_OIL_FILL_LEVEL: 1206.36
+  response: 7E8056220064E8A
+- expected_values:
+    T6_PQ35_OIL_FILL_LEVEL: 1327.86
+  response: '7E8056220065673'

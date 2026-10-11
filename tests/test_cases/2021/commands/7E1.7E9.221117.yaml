@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221117
+test_cases:
+- expected_values:
+    T6_PQ35_REACHED_MAXIMUM_T: 100
+  response: '7E9056211176400'
+- expected_values:
+    T6_PQ35_REACHED_MAXIMUM_T: 101
+  response: '7E9056211176500'

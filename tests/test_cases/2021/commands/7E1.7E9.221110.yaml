@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221110
+test_cases:
+- expected_values:
+    T6_PQ35_WORKING_HOURS: 887.7845
+  response: 7E9076211107A5F8609
+- expected_values:
+    T6_PQ35_WORKING_HOURS: 887.82866
+  response: 7E907621110867E8609
+- expected_values:
+    T6_PQ35_WORKING_HOURS: 1010.62239
+  response: 7E907621110DFC1D70A

@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Transporter_(T6)"
+
+generations:
+  - name: "T6"
+    start_year: 2015
+    end_year: 2019
+    description: "The sixth-generation Transporter van and Multivan, with 2.0 L TDI diesel and TSI gasoline engines."
+  - name: "T6.1"
+    start_year: 2019
+    end_year: null
+    description: "A revised T6 with an electromechanical steering rack and an electric ABT e-Transporter version."

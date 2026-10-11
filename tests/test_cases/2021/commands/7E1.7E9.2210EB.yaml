@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2210EB
+test_cases:
+- expected_values:
+    T6_PQ35_CLUTCH_2_ADAPT_KISS_POINT_PART_1_ODO_READING: 56420
+  response: 7E9056210EB0A16
+- expected_values:
+    T6_PQ35_CLUTCH_2_ADAPT_KISS_POINT_PART_1_ODO_READING: 58810
+  response: 7E9056210EBF916

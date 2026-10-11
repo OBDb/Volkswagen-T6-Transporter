@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.223887
+test_cases:
+- expected_values:
+    T6_MQB_TCM_ODO_2: 68556.8
+  response: 7E90762388700760A00
+- expected_values:
+    T6_MQB_TCM_ODO_2: 55609.4
+  response: 7E9076238873E7C0800
+- expected_values:
+    T6_MQB_TCM_ODO_2: 68263.2
+  response: 7E907623887886A0A00
+- expected_values:
+    T6_MQB_TCM_ODO_2: 58025.3
+  response: 7E9076238879DDA0800
+- expected_values:
+    T6_MQB_TCM_ODO_2: 68582.2
+  response: 7E907623887FE760A00

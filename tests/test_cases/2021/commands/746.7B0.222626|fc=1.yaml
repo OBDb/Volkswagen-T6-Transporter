@@ -1,0 +1,11 @@
+command_id: 746.7B0.222626|fc=1
+test_cases:
+- expected_values:
+    T6_CLIMATE_FR_R_T_FLP_ACT_VALUE: 0
+  response: 7B006622626003800
+- expected_values:
+    T6_CLIMATE_FR_R_T_FLP_ACT_VALUE: 0
+  response: 7B006622626003900
+- expected_values:
+    T6_CLIMATE_FR_R_T_FLP_ACT_VALUE: 99
+  response: 7B00662262600D1C6

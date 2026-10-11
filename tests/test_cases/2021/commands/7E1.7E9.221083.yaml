@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221083
+test_cases:
+- expected_values:
+    T6_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G1: -1.83
+  response: 7E90562108349FF
+- expected_values:
+    T6_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G1: -1.49
+  response: 7E9056210836BFF

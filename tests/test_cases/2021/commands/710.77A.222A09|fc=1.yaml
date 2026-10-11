@@ -1,0 +1,23 @@
+command_id: 710.77A.222A09|fc=1
+test_cases:
+- expected_values:
+    T6_BAT_I: 0
+  response: 77A07622A0900000000
+- expected_values:
+    T6_BAT_I: -15.399
+  response: 77A07622A09FFFFC3D9
+- expected_values:
+    T6_BAT_I: -15.262
+  response: 77A07622A09FFFFC462
+- expected_values:
+    T6_BAT_I: -15.244
+  response: 77A07622A09FFFFC474
+- expected_values:
+    T6_BAT_I: -15.239
+  response: 77A07622A09FFFFC479
+- expected_values:
+    T6_BAT_I: -6.213
+  response: 77A07622A09FFFFE7BB
+- expected_values:
+    T6_BAT_I: -4.695
+  response: 77A07622A09FFFFEDA9

@@ -1,0 +1,5 @@
+command_id: 70F.779.2208A7|fc=1
+test_cases:
+- expected_values:
+    T6_PQ35_HAL_DIFF_LK: 1
+  response: 779066208A7252524

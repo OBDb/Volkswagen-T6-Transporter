@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221017
+test_cases:
+- expected_values:
+    T6_PQ35_ROAD_RESISTANCE: -2.716
+  response: '7E90462101774'
+- expected_values:
+    T6_PQ35_ROAD_RESISTANCE: 0.77
+  response: '7E90462101782'

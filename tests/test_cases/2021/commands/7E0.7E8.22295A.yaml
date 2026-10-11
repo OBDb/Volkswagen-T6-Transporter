@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22295A
+test_cases:
+- expected_values:
+    T6_ODO: 211
+  response: 7E80762295A0000D32E
+- expected_values:
+    T6_ODO: 229
+  response: 7E80762295A0000E5BC
+- expected_values:
+    T6_ODO: 270
+  response: 7E80762295A00010E30
+- expected_values:
+    T6_ODO: 271
+  response: 7E80762295A00010FFF
+- expected_values:
+    T6_ODO: 272
+  response: 7E80762295A00011000

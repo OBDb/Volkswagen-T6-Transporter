@@ -1,0 +1,14 @@
+command_id: 746.7B0.222611|fc=1
+test_cases:
+- expected_values:
+    T6_CLIMATE_LEG_DEFL_T: 32.66667
+  response: 7B00462261162
+- expected_values:
+    T6_CLIMATE_LEG_DEFL_T: 42
+  response: 7B0046226117E
+- expected_values:
+    T6_CLIMATE_LEG_DEFL_T: 46
+  response: 7B0046226118A
+- expected_values:
+    T6_CLIMATE_LEG_DEFL_T: 46.66667
+  response: 7B0046226118C

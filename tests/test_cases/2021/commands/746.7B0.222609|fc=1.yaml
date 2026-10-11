@@ -1,0 +1,11 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    T6_AAT: 62
+  response: 7B0046226097C
+- expected_values:
+    T6_AAT: -56
+  response: 7B00462260990
+- expected_values:
+    T6_AAT: -45
+  response: 7B004622609A6

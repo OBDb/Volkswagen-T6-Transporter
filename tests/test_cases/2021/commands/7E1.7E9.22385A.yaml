@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22385A
+test_cases:
+- expected_values:
+    T6_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0.01
+  response: 7E90562385A0100
+- expected_values:
+    T6_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0.05
+  response: 7E90562385A0500

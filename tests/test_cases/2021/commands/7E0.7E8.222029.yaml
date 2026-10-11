@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222029
+test_cases:
+- expected_values:
+    T6_PQ35_CHARGE_AIR_P_SPECIFIED: 80.16
+  response: 7E80562202903EA
+- expected_values:
+    T6_PQ35_CHARGE_AIR_P_SPECIFIED: 83.36
+  response: '7E8056220290412'
+- expected_values:
+    T6_PQ35_CHARGE_AIR_P_SPECIFIED: 83.6
+  response: '7E8056220290415'

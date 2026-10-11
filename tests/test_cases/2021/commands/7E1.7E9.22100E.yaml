@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100E
+test_cases:
+- expected_values:
+    T6_MQB_TCM_ENGINE_TORQUE_LIMITATION: 78
+  response: 7E90562100E1806
+- expected_values:
+    T6_MQB_TCM_ENGINE_TORQUE_LIMITATION: 118
+  response: 7E90562100E3809

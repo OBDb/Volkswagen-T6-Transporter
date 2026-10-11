@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221094
+test_cases:
+- expected_values:
+    T6_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G4: 8.82
+  response: '7E9056210947203'
+- expected_values:
+    T6_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G4: 9.23
+  response: 7E9056210949B03

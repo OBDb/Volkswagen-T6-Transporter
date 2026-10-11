@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221059
+test_cases:
+- expected_values:
+    T6_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 3.72
+  response: '7E9056210597401'
+- expected_values:
+    T6_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 3.79
+  response: 7E9056210597B01
