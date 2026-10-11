@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22388B
+test_cases:
+- expected_values:
+    T6_MQB_TCM_DRIVE_CYCLES_COUNTER: 570
+  response: 7E90562388B3A02
+- expected_values:
+    T6_MQB_TCM_DRIVE_CYCLES_COUNTER: 407
+  response: 7E90562388B9701

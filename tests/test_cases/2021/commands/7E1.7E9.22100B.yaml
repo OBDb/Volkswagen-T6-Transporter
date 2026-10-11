@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100B
+test_cases:
+- expected_values:
+    T6_MQB_TCM_DRIVER_DEMAND_TORQUE: 217.55
+  response: 7E90562100B10FF
+- expected_values:
+    T6_MQB_TCM_DRIVER_DEMAND_TORQUE: 1446.3
+  response: 7E90562100B70FE

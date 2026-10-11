@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22102B
+test_cases:
+- expected_values:
+    T6_PQ35_CLUTCH_1_T: 24
+  response: 7E90562102B1800
+- expected_values:
+    T6_PQ35_CLUTCH_1_T: 73
+  response: 7E90562102B4900

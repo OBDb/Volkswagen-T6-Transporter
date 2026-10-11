@@ -1,0 +1,11 @@
+command_id: 746.7B0.22261E|fc=1
+test_cases:
+- expected_values:
+    T6_MQB_RECIRC_FLAP_ACT: 81
+  response: 7B00662261E005100
+- expected_values:
+    T6_MQB_RECIRC_FLAP_ACT: 83
+  response: 7B00662261E005300
+- expected_values:
+    T6_MQB_RECIRC_FLAP_ACT: 86
+  response: 7B00662261E005606

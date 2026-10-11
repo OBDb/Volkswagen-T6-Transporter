@@ -1,0 +1,8 @@
+command_id: 746.7B0.222620|fc=1
+test_cases:
+- expected_values:
+    T6_MQB_RECIRC_FLAP_FRESH_THR: 82
+  response: 7B0056226200052
+- expected_values:
+    T6_MQB_RECIRC_FLAP_FRESH_THR: 83
+  response: 7B0056226200053

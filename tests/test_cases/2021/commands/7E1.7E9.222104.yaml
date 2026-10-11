@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    T6_ATF_T: -16
+  response: '7E9056221041800'
+- expected_values:
+    T6_ATF_T: 33
+  response: '7E9056221044900'

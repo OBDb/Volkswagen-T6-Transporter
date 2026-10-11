@@ -1,0 +1,11 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    T6_CLIMATE_REFRIG_P: 6.4
+  response: 7B00462260520
+- expected_values:
+    T6_CLIMATE_REFRIG_P: 8.8
+  response: 7B0046226052C
+- expected_values:
+    T6_CLIMATE_REFRIG_P: 9
+  response: 7B0046226052D

@@ -1,0 +1,32 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    T6_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D10086218100010A6
+    77D21FFFEAAAAAAAAAA
+- expected_values:
+    T6_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D10086218100010AC
+    77D21FFFEAAAAAAAAAA
+- expected_values:
+    T6_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D10086218100010B2
+    77D21FFFEAAAAAAAAAA
+- expected_values:
+    T6_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D10086218100010DA
+    77D21FFFEAAAAAAAAAA
+- expected_values:
+    T6_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D10086218100010E8
+    77D21FFFEAAAAAAAAAA
+- expected_values:
+    T6_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D1008621810001CEA
+    77D21FFFEAAAAAAAAAA

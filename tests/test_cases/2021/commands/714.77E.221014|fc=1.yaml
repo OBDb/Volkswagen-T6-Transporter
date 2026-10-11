@@ -1,0 +1,14 @@
+command_id: 714.77E.221014|fc=1
+test_cases:
+- expected_values:
+    T6_DASH_AMBIENT_AIR_T: 12
+  response: 77E046210147C
+- expected_values:
+    T6_DASH_AMBIENT_AIR_T: 22.5
+  response: '77E0462101491'
+- expected_values:
+    T6_DASH_AMBIENT_AIR_T: 33
+  response: 77E04621014A6
+- expected_values:
+    T6_DASH_AMBIENT_AIR_T: 33.5
+  response: 77E04621014A7

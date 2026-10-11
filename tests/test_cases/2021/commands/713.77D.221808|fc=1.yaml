@@ -1,0 +1,18 @@
+command_id: 713.77D.221808|fc=1
+test_cases:
+- expected_values:
+    T6_HDC_ACTIVE: 0
+    T6_HDC_INCLINE: 0
+  response: 77D056218080800
+- expected_values:
+    T6_HDC_ACTIVE: 0
+    T6_HDC_INCLINE: 2
+  response: 77D056218080802
+- expected_values:
+    T6_HDC_ACTIVE: 0
+    T6_HDC_INCLINE: 3
+  response: 77D056218080803
+- expected_values:
+    T6_HDC_ACTIVE: 0
+    T6_HDC_INCLINE: 6
+  response: 77D056218080806

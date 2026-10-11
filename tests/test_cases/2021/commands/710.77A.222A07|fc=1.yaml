@@ -1,0 +1,14 @@
+command_id: 710.77A.222A07|fc=1
+test_cases:
+- expected_values:
+    T6_BAT_V_2A07: 11.95
+  response: 77A05622A071F0E
+- expected_values:
+    T6_BAT_V_2A07: 12.449
+  response: 77A05622A072101
+- expected_values:
+    T6_BAT_V_2A07: 13.983
+  response: 77A05622A0726FF
+- expected_values:
+    T6_BAT_V_2A07: 14.755
+  response: 77A05622A072A03

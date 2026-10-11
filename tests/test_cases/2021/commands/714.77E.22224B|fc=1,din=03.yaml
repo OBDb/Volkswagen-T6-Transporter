@@ -1,0 +1,11 @@
+command_id: 714.77E.22224B|fc=1,din=03
+test_cases:
+- expected_values:
+    T6_DASH_OIL_THERMAL_WEAR: 13
+  response: 77E0562224B000D
+- expected_values:
+    T6_DASH_OIL_THERMAL_WEAR: 28
+  response: 77E0562224B001C
+- expected_values:
+    T6_DASH_OIL_THERMAL_WEAR: 43
+  response: 77E0562224B002B

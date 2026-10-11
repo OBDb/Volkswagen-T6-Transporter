@@ -1,0 +1,14 @@
+command_id: 713.77D.22180E|fc=1
+test_cases:
+- expected_values:
+    T6_BDD_ACTIVE: 0
+    T6_BDD_ODO: 52606
+  response: 77D0762180E0100CD7E
+- expected_values:
+    T6_BDD_ACTIVE: 0
+    T6_BDD_ODO: 56386
+  response: 77D0762180E0100DC42
+- expected_values:
+    T6_BDD_ACTIVE: 0
+    T6_BDD_ODO: 57394
+  response: 77D0762180E0100E032

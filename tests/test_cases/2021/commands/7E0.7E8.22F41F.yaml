@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    T6_RUNTM: 0
+  response: 7E80562F41F0000
+- expected_values:
+    T6_RUNTM: 1279
+  response: 7E80562F41F04FF
+- expected_values:
+    T6_RUNTM: 3845
+  response: 7E80562F41F0F05

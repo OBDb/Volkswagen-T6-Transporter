@@ -1,0 +1,11 @@
+command_id: 746.7B0.222613|fc=1
+test_cases:
+- expected_values:
+    T6_CABIN_T: 31
+  response: 7B0056226130136
+- expected_values:
+    T6_CABIN_T: 34.9
+  response: 7B005622613015D
+- expected_values:
+    T6_CABIN_T: 36
+  response: 7B0056226130168

@@ -1,0 +1,11 @@
+command_id: 712.77C.221812|fc=1
+test_cases:
+- expected_values:
+    T6_MQB_SWA: 3.06
+  response: 77C06621812001801
+- expected_values:
+    T6_MQB_SWA: -246.815
+  response: 77C06621812F84901
+- expected_values:
+    T6_MQB_SWA: -16.94
+  response: 77C06621812FF7801

@@ -1,0 +1,38 @@
+command_id: 713.77D.221816|fc=1
+test_cases:
+- expected_values:
+    T6_AIR_GAB_VACUUM_SNS: 0
+    T6_BRAKE_P_SNS: 42.74
+  response: |-
+    77D100C6218160010B2
+    77D21001EFFFFFFFFAA
+- expected_values:
+    T6_AIR_GAB_VACUUM_SNS: 0
+    T6_BRAKE_P_SNS: 42.8
+  response: |-
+    77D100C6218160010B8
+    77D21001EFFFFFFFFAA
+- expected_values:
+    T6_AIR_GAB_VACUUM_SNS: 0
+    T6_BRAKE_P_SNS: 43.2
+  response: |-
+    77D100C6218160010E0
+    77D21001EFFFFFFFFAA
+- expected_values:
+    T6_AIR_GAB_VACUUM_SNS: 0
+    T6_BRAKE_P_SNS: 43.28
+  response: |-
+    77D100C6218160010E8
+    77D21001EFFFFFFFFAA
+- expected_values:
+    T6_AIR_GAB_VACUUM_SNS: 0
+    T6_BRAKE_P_SNS: 43.4
+  response: |-
+    77D100C6218160010F4
+    77D21001FFFFFFFFFAA
+- expected_values:
+    T6_AIR_GAB_VACUUM_SNS: 0
+    T6_BRAKE_P_SNS: 74.02
+  response: |-
+    77D100C621816011CEA
+    77D21003DFFFFFFFFAA

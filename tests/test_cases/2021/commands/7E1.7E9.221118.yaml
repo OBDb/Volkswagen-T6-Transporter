@@ -1,0 +1,10 @@
+command_id: 7E1.7E9.221118
+test_cases:
+- expected_values:
+    T6_PQ35_CLUTCH_1_MAXIMUM_T: 182
+    T6_PQ35_CLUTCH_2_MAXIMUM_T: 180
+  response: 7E907621118B600B400
+- expected_values:
+    T6_PQ35_CLUTCH_1_MAXIMUM_T: 225
+    T6_PQ35_CLUTCH_2_MAXIMUM_T: 248
+  response: 7E907621118E100F800
